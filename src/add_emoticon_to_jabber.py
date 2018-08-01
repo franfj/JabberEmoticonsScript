@@ -20,11 +20,11 @@ def main(argv):
     
     Tested in Windows, it may not work properly in GNU/Linux or MacOSX systems.
 
-    Usage: python addEmoticonToJabber.py path_to_img
+    Usage: python add_emoticon_to_jabber.py path_to_img
     """
 
     # Read properties
-    with open('script.properties') as file:
+    with open('../properties/script.properties') as file:
         pathToJabber = file.readlines()[0].split('=')[1]
         print pathToJabber
 
