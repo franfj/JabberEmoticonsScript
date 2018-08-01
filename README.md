@@ -1,5 +1,5 @@
 # JabberEmoticonsScript
-Script written in Python for adding emoticons to Cisco Jabber client automatically.
+Script written in Python for adding emoticons to a Cisco Jabber client automatically.
 
 #### Usage
 - Put your Cisco Jabber directory in the script.properties file
