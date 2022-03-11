@@ -2,4 +2,4 @@
 # https://github.com/damnever/pigar
 
 # src/add_emoticon_to_jabber.py: 3
-Pillow == 9.0.0
+Pillow == 9.0.1
